@@ -1,0 +1,154 @@
+{
+  "brief": {
+    "project_id": "space-puzzle-song-001",
+    "audience": {
+      "age_min": 4,
+      "age_max": 8,
+      "target_age": 6,
+      "viewer_context": "Children will watch with parents, so keep it fun for kids and trustworthy for adults."
+    },
+    "song": {
+      "topic": "space adventure",
+      "genre": "Hindi nursery rhyme with light pop rhythm",
+      "theme": "curiosity, teamwork, and solving small space puzzles",
+      "mood": "happy, bright, playful, safe, energetic",
+      "language": "Hindi",
+      "duration_seconds": 100,
+      "learning_goal": "बच्चे ग्रह, तारे और सवाल पूछने की आदत के बारे में सीखें",
+      "moral_value": "मिलकर सीखना और कोशिश करते रहना",
+      "vocabulary_level": "simple Hindi, short lines, easy repetition",
+      "structure": {
+        "sections": [
+          "मुखड़ा",
+          "अंतरा 1",
+          "मुखड़ा",
+          "अंतरा 2",
+          "ब्रिज",
+          "मुखड़ा",
+          "आउट्रो"
+        ],
+        "chorus_requirement": "Very catchy and repeatable. Kids should be able to sing it after one listen.",
+        "line_length": "Short lines, around 6 to 10 Hindi words."
+      }
+    },
+    "music": {
+      "tempo_bpm_range": [
+        95,
+        115
+      ],
+      "energy": "medium-high but not noisy",
+      "instruments": [
+        "ukulele",
+        "claps",
+        "soft tabla",
+        "xylophone",
+        "light synth bells"
+      ],
+      "vocal_style": "friendly adult or older-child voice, clear pronunciation",
+      "rhyme_style": "simple end rhymes, repeated hook words"
+    },
+    "creative_constraints": {
+      "must_include": [
+        "चांद",
+        "तारे",
+        "रॉकेट",
+        "पहेली",
+        "मिलकर"
+      ],
+      "avoid": [
+        "scary space danger",
+        "complex science terms",
+        "religious or political references",
+        "brand names",
+        "violent words",
+        "sad ending"
+      ],
+      "safety": "Age-appropriate for children 4-8. No fear, shame, insults, unsafe stunts, or negative body language.",
+      "freshness_instruction": "Generate completely new lyrics. Do not copy existing nursery rhymes, film songs, poems, or copyrighted lyrics."
+    },
+    "output": {
+      "title_hint": "चांद तारों की पहेली",
+      "youtube_keywords": [
+        "Hindi kids song",
+        "space song for kids",
+        "बाल गीत",
+        "learning song"
+      ],
+      "save_metadata": true
+    }
+  },
+  "song": {
+    "title": "चांद तारों की पहेली",
+    "sections": [
+      {
+        "name": "मुखड़ा",
+        "lines": [
+          "चांद तारे चमक रहे आसमान में,",
+          "रॉकेट में बैठकर चलें हम यहां से,",
+          "मिलकर ढूंढें पहेली नई,",
+          "गूंज उठी हंसी, है मस्ती भरी।"
+        ]
+      },
+      {
+        "name": "अंतरा 1",
+        "lines": [
+          "रॉकेट में चढ़े हम, उड़ चले साथ,",
+          "तारे मुस्काए बोले, पूछो कोई बात,",
+          "पहेली आई सामने, सोचो ज़रा,",
+          "मिलकर हल करें, ये है मज़ा!"
+        ]
+      },
+      {
+        "name": "मुखड़ा",
+        "lines": [
+          "चांद तारे चमक रहे आसमान में,",
+          "रॉकेट में बैठकर चलें हम यहां से,",
+          "मिलकर ढूंढें पहेली नई,",
+          "गूंज उठी हंसी, है मस्ती भरी।"
+        ]
+      },
+      {
+        "name": "अंतरा 2",
+        "lines": [
+          "चांद पूछे सवाल, सोचो मिलकर,",
+          "तारों की टोली दे हंसी का जवाब,",
+          "रॉकेट घूमे, आगे बड़े,",
+          "साथ सीखें सब, ना कोई थमे।"
+        ]
+      },
+      {
+        "name": "ब्रिज",
+        "lines": [
+          "पहेली आसान हो, चाहे हो कठिन,",
+          "मिलकर समझें हम, कभी ना रुकें,",
+          "मिलके सीखना सबसे है प्यारा,",
+          "आओ बनाएँ अंतरिक्ष हमारा!"
+        ]
+      },
+      {
+        "name": "मुखड़ा",
+        "lines": [
+          "चांद तारे चमक रहे आसमान में,",
+          "रॉकेट में बैठकर चलें हम यहां से,",
+          "मिलकर ढूंढें पहेली नई,",
+          "गूंज उठी हंसी, है मस्ती भरी।"
+        ]
+      },
+      {
+        "name": "आउट्रो",
+        "lines": [
+          "आज की पहेली, मिलकर सुलझाई,",
+          "रॉकेट, चांद, तारे, दोस्त हमारे भाई,",
+          "आओ मिलकर सीखें रोज़ नई बात,",
+          "अंतरिक्ष हमेशा दे प्यारे सवाल साथ।"
+        ]
+      }
+    ],
+    "music_prompt": "Genre: Hindi nursery rhyme with light pop rhythm. Mood: happy, bright, playful, safe, energetic. Tempo: 105 BPM (falls within the 95-115 bpm range, medium-high but comfortable for young kids). Instruments: ukulele, claps, soft tabla, xylophone, light synth bells. Vocal style: friendly adult or older-child, clear, lively, energetic but not rushed. Language: Hindi. Target duration: about 100 seconds. Keep melody catchy, especially on the chorus lines with strong repetition and hook."
+  },
+  "model": "gpt-4.1-2025-04-14",
+  "response_id": "resp_06bdd2e6e010f39f016aa55ebaed5087d2859bd65dbb0dea22",
+  "created_at": "2026-09-12T14:16:31.926998+00:00",
+  "lyrics_file": "D:\\bachpan.ki.boli\\data\\lyrics\\space-puzzle-song-001-20260912T141631926998Z.txt",
+  "music_file": "D:\\bachpan.ki.boli\\data\\lyrics\\space-puzzle-song-001-20260912T141631926998Z.music.txt"
+}

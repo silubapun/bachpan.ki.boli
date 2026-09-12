@@ -1,0 +1,50 @@
+{
+  "project_id": "space-puzzle-song-001",
+  "audience": {
+    "age_min": 4,
+    "age_max": 8,
+    "target_age": 6,
+    "viewer_context": "Children will watch with parents, so keep it fun for kids and trustworthy for adults."
+  },
+  "song": {
+    "topic": "space adventure",
+    "genre": "Hindi nursery rhyme with light pop rhythm",
+    "theme": "curiosity, teamwork, and solving small space puzzles",
+    "mood": "happy, bright, playful, safe, energetic",
+    "language": "Hindi",
+    "duration_seconds": 100,
+    "learning_goal": "बच्चे ग्रह, तारे और सवाल पूछने की आदत के बारे में सीखें",
+    "moral_value": "मिलकर सीखना और कोशिश करते रहना",
+    "vocabulary_level": "simple Hindi, short lines, easy repetition",
+    "structure": {
+      "sections": ["मुखड़ा", "अंतरा 1", "मुखड़ा", "अंतरा 2", "ब्रिज", "मुखड़ा", "आउट्रो"],
+      "chorus_requirement": "Very catchy and repeatable. Kids should be able to sing it after one listen.",
+      "line_length": "Short lines, around 6 to 10 Hindi words."
+    }
+  },
+  "music": {
+    "tempo_bpm_range": [95, 115],
+    "energy": "medium-high but not noisy",
+    "instruments": ["ukulele", "claps", "soft tabla", "xylophone", "light synth bells"],
+    "vocal_style": "friendly adult or older-child voice, clear pronunciation",
+    "rhyme_style": "simple end rhymes, repeated hook words"
+  },
+  "creative_constraints": {
+    "must_include": ["चांद", "तारे", "रॉकेट", "पहेली", "मिलकर"],
+    "avoid": [
+      "scary space danger",
+      "complex science terms",
+      "religious or political references",
+      "brand names",
+      "violent words",
+      "sad ending"
+    ],
+    "safety": "Age-appropriate for children 4-8. No fear, shame, insults, unsafe stunts, or negative body language.",
+    "freshness_instruction": "Generate completely new lyrics. Do not copy existing nursery rhymes, film songs, poems, or copyrighted lyrics."
+  },
+  "output": {
+    "title_hint": "चांद तारों की पहेली",
+    "youtube_keywords": ["Hindi kids song", "space song for kids", "बाल गीत", "learning song"],
+    "save_metadata": true
+  }
+}
