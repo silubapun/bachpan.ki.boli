@@ -2,7 +2,7 @@
   "project_id": "space-puzzle-song-001",
   "audience": {
     "age_min": 4,
-    "age_max": 8,
+    "age_max": 12,
     "target_age": 6,
     "viewer_context": "Children will watch with parents, so keep it fun for kids and trustworthy for adults."
   },
@@ -12,7 +12,7 @@
     "theme": "curiosity, teamwork, and solving small space puzzles",
     "mood": "happy, bright, playful, safe, energetic",
     "language": "Hindi",
-    "duration_seconds": 100,
+    "duration_seconds": 90,
     "learning_goal": "बच्चे ग्रह, तारे और सवाल पूछने की आदत के बारे में सीखें",
     "moral_value": "मिलकर सीखना और कोशिश करते रहना",
     "vocabulary_level": "simple Hindi, short lines, easy repetition",
